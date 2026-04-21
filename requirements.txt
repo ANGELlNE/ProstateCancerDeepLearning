@@ -1,0 +1,15 @@
+kaggle
+numpy
+pandas
+matplotlib
+scikit-learn
+opencv-python
+Pillow
+tqdm
+torch
+torchvision
+timm
+albumentations
+jupyter
+openslide-python
+PyYAML
